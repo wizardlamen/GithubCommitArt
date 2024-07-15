@@ -2870,3 +2870,4 @@ Sine commit 6 for 2024-07-15T12:00:00+00:00 row 5
 Sine commit 7 for 2024-07-15T12:00:00+00:00 row 5
 Background commit 1 for 2024-07-15T12:00:00+00:00 row 6
 Background commit 2 for 2024-07-15T12:00:00+00:00 row 6
+Background commit 3 for 2024-07-15T12:00:00+00:00 row 6
