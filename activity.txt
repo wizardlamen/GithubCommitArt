@@ -6568,3 +6568,4 @@ Sine wave commit 5 for 2025-01-01T12:00:00 row 0
 Sine wave commit 6 for 2025-01-01T12:00:00 row 0
 Sine wave commit 7 for 2025-01-01T12:00:00 row 0
 Background commit 1 for 2025-01-01T12:00:00 row 1
+Background commit 2 for 2025-01-01T12:00:00 row 1
