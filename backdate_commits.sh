@@ -176,6 +176,6 @@ echo "Finished: Created commits for your pattern."
 
 # Push to GitHub
 echo "Pushing commits to GitHub remote repository..."
-git push -u origin "$BRANCH"
+git push -u origin "$BRANCH" --force
 
 echo "Push complete. Check your GitHub contribution graph!"
