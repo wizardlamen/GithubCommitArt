@@ -9,13 +9,13 @@
 
 # Configuration: Adjust these variables as needed
 # Number of days in the past to start from
-START_DAYS_AGO=30
+START_DAYS_AGO=100
 # Total number of commits to create
 TOTAL_COMMITS=30
 # The file that will be modified by each commit
 FILE="activity.txt"
 # Your GitHub branch (main or master, adjust accordingly)
-BRANCH="master"
+BRANCH="main"
 
 # Check if the remote is already added; if not, add it.
 REMOTE_NAME="origin"
